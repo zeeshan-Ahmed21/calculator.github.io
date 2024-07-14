@@ -1,0 +1,96 @@
+@keyframes calculator {
+    from{transform: translatey(-600px);}
+    to{transform: translatey(0px);}
+}
+@keyframes span {
+    0%{
+        color: blue;
+    }
+    50%{
+        color: #ffffff;
+    }
+    100%{
+        color: red;
+    }
+}
+@keyframes heading {
+    from{transform: translatey(-600px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num1 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num2 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num3 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num4 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num5 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num6 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num7 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num8 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num9 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num10 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num11 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num12 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num13 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num14 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num15 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num16 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num17 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+@keyframes num18 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}
+
+@keyframes num19 {
+    from{transform: translatey(-700px);}
+    to{transform: translatey(0px);}
+}

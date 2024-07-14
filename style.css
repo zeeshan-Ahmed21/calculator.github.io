@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container1{
+    border: 1px solid;
+    height: 100vh;
+    background-image: url(pexels-pixabay-460621.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.container1 h1{
+    font-size: 80px;
+    color: #ffffff;
+    margin-left: 50px;
+    margin-top: 100px;
+    animation-name: heading;
+    animation-duration: 1.5s;
+    color: black;
+}
+.container1 span{
+    animation-name: span;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+.calculator{
+    /* border: 1px solid; */
+    height: 480px;
+    width: 340px;
+    /* margin-top: 30px; */
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    animation-name: calculator;
+    animation-duration: 1.5s;
+}
+.sec1{
+    /* border: 1px solid; */
+    height: 90px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: #ffffff;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    font-size: 50px;
+    padding-right: 30px;
+}
+.sec2{
+    /* border: 1px solid; */
+    height: 390px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 5px;
+    box-sizing: border-box;
+    padding: 15px;
+}
+.sec3{
+    /* border: 1px solid; */
+    height: 65px;
+    width: 65px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 23PX;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    /* box-shadow: inset rgba(0, 0, 0, 0.3) 0px 0px 3px 3px;  */
+}
+.sec4{
+    /* border: 1px solid; */
+    height: 65px;
+    /* width: 65px; */
+    border-radius: 40px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 23PX;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    /* box-shadow: inset rgba(0, 0, 0, 0.3) 0px 0px 3px 3px; */
+}
+.sec3:hover{
+    box-shadow: inset rgba(0, 0, 0, 0.3) 0px 0px 3px 3px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.sec4:hover{
+    box-shadow: inset rgba(0, 0, 0, 0.3) 0px 0px 3px 3px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.symbolclr{
+    background-color: #ff9501;
+    color: #ffffff;
+}
+.topclr{
+    background-color: #a6a6a6;
+    color: #101010;
+}
+.numclr{
+    background-color: #333333;
+    color: #ffffff;
+}
+.num1{animation-name: num1;
+    animation-duration: 6.5s;}
+.num2{animation-name: num2;
+    animation-duration: 6.2s;}
+.num3{animation-name: num3;
+    animation-duration: 6s;}
+.num4{animation-name: num4;
+    animation-duration: 5.8s;}
+.num5{animation-name: num5;
+    animation-duration: 5.5s;}
+.num6{animation-name: num6;
+    animation-duration: 5.2s;}
+.num7{animation-name: num7;
+    animation-duration: 5s;}
+.num8{animation-name: num8;
+    animation-duration: 4.8s;}
+.num9{animation-name: num9;
+    animation-duration: 4.5s;}
+.num10{animation-name: num10;
+    animation-duration: 4.2s;}
+.num11{animation-name: num11;
+    animation-duration: 4s;}
+.num12{animation-name: num12;
+    animation-duration: 3.8s;}
+.num13{animation-name: num13;
+    animation-duration: 3.5s;}
+.num14{animation-name: num14;
+    animation-duration: 3.2s;}
+.num15{animation-name: num15;
+    animation-duration: 3s;}
+.num16{animation-name: num16;
+    animation-duration: 2.8s;}
+.num17{
+    animation-name: num17;
+    animation-duration: 2.5s;
+}
+.num18{animation-name: num18;
+    animation-duration: 2.2s;}
+.num19{animation-name: num19;
+    animation-duration: 2s;}
