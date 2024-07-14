@@ -1,18 +1,12 @@
 @media only screen and (max-width:480px) {
     .calculator{
-        top: 65px;
-        right: 50px;
-        height: 450px;
+        top: 140px;
+        right: 40px;
         width: 320px;
     }
-    .sec1{
-        height: 80px;
-    }
-    .sec2{
-        height: 370px;
-    }
     .container1 h1{
-        font-size: 40px;
-        margin-top: 10px;
+        font-size: 50px;
+        margin-top: 30px;
+        margin-left: 20px;
     }
 }
